@@ -1,0 +1,7 @@
+#turtles, #snakes, #insects {
+  display: none;
+}
+
+.show {
+  display: inherit;
+}
